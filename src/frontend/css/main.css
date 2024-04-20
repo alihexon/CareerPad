@@ -1831,7 +1831,9 @@ body::-webkit-scrollbar-thumb {
   font-weight: 500;
 }
 .home__title span {
+  /* title-span */
   color: #6164ff;
+
 }
 .home__text {
   position: relative;
